@@ -37,11 +37,12 @@ Este projeto é um do site do filme **Mario Bros**. Usando _HTML_ e _CSS_.
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/leonardoalmir.github.io/site-mario-bros/blob/main/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/leonardoalmir/site-mario-bros/blob/main/LICENSE) para mais detalhes.
+
 
 ## 🚧 Projeto:
 
-Link do Projeto: [Site Mario Bros](https://leonardoalmir.github.io/site-mario-bros/)
+Link do Projeto: [Site do Filme Mario Bros](https://leonardoalmir.github.io/site-mario-bros/)
 
 ---
 Feito por Leonardo Almir
