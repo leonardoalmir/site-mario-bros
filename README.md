@@ -41,7 +41,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.c
 
 ## 🚧 Projeto:
 
-Link do Projeto: [Dogs](https://leonardoalmir.github.io/site-mario-bros/)
+Link do Projeto: [Site Mario Bros](https://leonardoalmir.github.io/site-mario-bros/)
 
 ---
 Feito por Leonardo Almir
