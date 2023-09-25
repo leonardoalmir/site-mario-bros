@@ -1,0 +1,43 @@
+main {
+    display: flex;
+    align-items: center;
+    flex: 1;
+    justify-content: space-between;
+}
+
+.main-info {
+    width: 100%;
+    max-width: 570px;
+}
+
+.main-info p {
+    font-size: 1.125rem;
+    margin: 20px 0 28px;
+}
+
+.main-info div {
+    display: flex;
+    column-gap: 32px;
+}
+
+.main-info div a,
+.main-info div button {
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 3px;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.01875px;
+    transform: skew(-10deg);
+}
+
+.main-info div a {
+    background-color: var(--red);
+}
+
+.main-info div button {
+    background: transparent;
+    border: 1px solid var(--green);
+}

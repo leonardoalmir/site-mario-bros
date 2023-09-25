@@ -6,7 +6,7 @@
 
 :root {
   --text: #EDF1F7;
-  --red: #C51212;
+  --red: #e72727;
   --blue: #0041C2;
   --green: #14B02D;
   --yellow: #ffc12b;
@@ -23,4 +23,9 @@ a {
 
 button:hover {
   cursor: pointer;
+}
+
+.container {
+  width: 100%;
+  max-width: 1440px;
 }

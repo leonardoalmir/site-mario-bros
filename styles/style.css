@@ -1,3 +1,11 @@
 /* Configs Globais */
 @import "./global.css";
+/* Background */
+@import "./background.css";
+/* Principal */
+@import "./principal.css";
+/* Header */
+@import "./header.css";
+/* Main */
+@import "./main.css";
 
